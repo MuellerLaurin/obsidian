@@ -1,0 +1,18 @@
+# Linux
+.DS_Store
+Thumbs.db
+
+# Obsidian Cache
+.obsidian/cache/
+
+# Papierkorb
+.trash/
+
+# Git
+.git/
+
+# Python
+__pycache__/
+
+# Logs
+*.log
